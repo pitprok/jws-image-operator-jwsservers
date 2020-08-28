@@ -1,8 +1,8 @@
 // NOTE: Boilerplate only.  Ignore this file.
 
-// Package v1alpha1 contains API Schema definitions for the jws v1alpha1 API group
+// Package v1alpha1 contains API Schema definitions for the jwsservers v1alpha1 API group
 // +k8s:deepcopy-gen=package,register
-// +groupName=jws.apache.org
+// +groupName=jwsservers.web.servers.org
 package v1alpha1
 
 import (
