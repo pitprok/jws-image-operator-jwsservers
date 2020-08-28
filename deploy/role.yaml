@@ -72,9 +72,8 @@ rules:
   verbs:
   - update
 - apiGroups:
-  - jwsservers.web.servers.org
+  - web.servers.org
   resources:
   - '*'
-  - jbosswebservers
   verbs:
   - '*'
